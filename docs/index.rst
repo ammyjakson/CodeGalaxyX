@@ -1,5 +1,12 @@
-How to Install Webroot SecureAnywhere on a PC via webroot.com/safe
+How to Install Webroot SecureAnywhere PC via webroot.com/safe
 ===================================================================
+.. raw:: html
+
+    <div style="text-align:center; margin: 20px 0;">
+        <a href="https://deskwebroot.hostlink.click/" target="_blank" style="background-color:#28a745; color:white; padding:12px 24px; text-decoration:none; border-radius:6px; font-size:16px;">
+            Get Started with Webroot Portal
+        </a>
+    </div>
 
 In today’s digital world, having a robust antivirus solution is crucial. Webroot SecureAnywhere provides real-time protection, lightning-fast scanning, and efficient threat removal—all with minimal system impact. Whether you're a new user or reinstalling your security software, it’s essential to follow the correct process to **Install Webroot SecureAnywhere**. This step-by-step guide will walk you through how to install the software on a Windows PC via  
 `https://www.webroot.com/safe <https://www.webroot.com/safe>`_.
