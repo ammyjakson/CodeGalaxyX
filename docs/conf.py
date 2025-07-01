@@ -6,7 +6,7 @@ sys.path.insert(0, os.path.abspath('.'))
 
 project = 'Home Webroot'
 copyright = '2025'
-author = 'Theodore Andrea'
+author = 'Robin Driscoll'
 
 release = '1.0'
 
